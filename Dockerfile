@@ -5,7 +5,7 @@ FROM tomcat:10.1.44-jdk17-temurin
 RUN rm -rf /usr/local/tomcat/webapps/ROOT
 
 # Copy WAR từ thư mục target vào Tomcat
-COPY target/week1-1.0-SNAPSHOT.war /usr/local/tomcat/webapps/ROOT.war
+COPY target/week1-1.0-SNAPSHOT.war /Users/PC/.SmartTomcat/week1/ROOT.war
 
 # Expose cổng 8080 để chạy app
 EXPOSE 8080
