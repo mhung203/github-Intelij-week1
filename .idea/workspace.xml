@@ -10,7 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d61e7f9a-ced1-4802-83b6-72a23fd73e25" name="Changes" comment="init comit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +156,7 @@
       <option name="presentableId" value="Default" />
       <updated>1756128793460</updated>
       <workItem from="1756128794438" duration="2469000" />
-      <workItem from="1756131878876" duration="6418000" />
+      <workItem from="1756131878876" duration="6755000" />
     </task>
     <task id="LOCAL-00001" summary="init comit">
       <option name="closed" value="true" />
@@ -222,7 +222,23 @@
       <option name="project" value="LOCAL" />
       <updated>1756137534980</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="init comit">
+      <option name="closed" value="true" />
+      <created>1756138626013</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1756138626013</updated>
+    </task>
+    <task id="LOCAL-00010" summary="init comit">
+      <option name="closed" value="true" />
+      <created>1756138667407</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1756138667407</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
