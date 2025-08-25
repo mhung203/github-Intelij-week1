@@ -9,9 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d61e7f9a-ced1-4802-83b6-72a23fd73e25" name="Changes" comment="init comit">
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-    </list>
+    <list default="true" id="d61e7f9a-ced1-4802-83b6-72a23fd73e25" name="Changes" comment="init comit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,7 +150,7 @@
       <option name="presentableId" value="Default" />
       <updated>1756128793460</updated>
       <workItem from="1756128794438" duration="2469000" />
-      <workItem from="1756131878876" duration="2934000" />
+      <workItem from="1756131878876" duration="3460000" />
     </task>
     <task id="LOCAL-00001" summary="init comit">
       <option name="closed" value="true" />
@@ -194,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756134715655</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="init comit">
+      <option name="closed" value="true" />
+      <created>1756134940491</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1756134940491</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
